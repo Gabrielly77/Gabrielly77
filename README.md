@@ -1,5 +1,5 @@
 ##  Eae, bão!? 
- -Estudante = *sistema de informação na* **UDESC**
+ -Estudante = *Sistema de informação na* **UDESC**
  
  -Estudante de *Front-end* **(HTML, CSS E JS)**
  
