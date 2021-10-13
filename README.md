@@ -1,7 +1,7 @@
 ##  Eae, bão!? 
  -Estudante = *Sistema de informação na* **UDESC**
  
- -Estudante de *Front-end* **(HTML, CSS E JS)**
+ -Estudante = *Front-end* **(HTML, CSS E JS)**
  
  -E futuramente back-end (Python)
 <div align="center">
