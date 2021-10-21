@@ -15,7 +15,7 @@
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gaby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Gaby-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/137904_HSUjg0la.png">
+  <img align="right" alt="Gaby-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/137904_u9WGkzsf.png">
 </div>
   
   ##
