@@ -1,4 +1,4 @@
-##  **Eae** 
+##  **What's Up?** 
  -👩🏻‍💻 Estudante = *Sistema de informação na* **UDESC**
  
  -🙋🏻‍♀️ Estudante = *Front-end* **(HTML, CSS E JS)**
