@@ -19,7 +19,7 @@
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gaby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <!-- Aqui você pode adicionar o GIF do Fullmetal Alchemist estudando -->
+  <!-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F533887730826668605%2F&psig=AOvVaw2qsLtOdnnIgQR3eE5Z4Fav&ust=1715905105320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNisyOTykIYDFQAAAAAdAAAAABAE -->
   
   <img align="right" alt="Gaby-pic" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/ForcefulNaturalDesertpupfish-size_restricted.gif">
 </div>
