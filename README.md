@@ -11,23 +11,6 @@
   </a> 
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <table>
-    <tr>
-      <td><img src="https://media.giphy.com/media/3o85xAYQ7ki9vYjC3C/giphy.gif" height="100"></td>
-      <td><img src="https://media.giphy.com/media/3o85xAYQ7ki9vYjC3C/giphy.gif" height="100"></td>
-      <td><img src="https://media.giphy.com/media/3o85xAYQ7ki9vYjC3C/giphy.gif" height="100"></td>
-      <td><img src="https://media.giphy.com/media/3o85xAYQ7ki9vYjC3C/giphy.gif" height="100"></td>
-    </tr>
-    <tr>
-      <td><img src="https://media.giphy.com/media/3o85xAYQ7ki9vYjC3C/giphy.gif" height="100"></td>
-      <td><img src="https://media.giphy.com/media/3o85xAYQ7ki9vYjC3C/giphy.gif" height="100"></td>
-      <td><img src="https://media.giphy.com/media/3o85xAYQ7ki9vYjC3C/giphy.gif" height="100"></td>
-      <td><img src="https://media.giphy.com/media/3o85xAYQ7ki9vYjC3C/giphy.gif" height="100"></td>
-    </tr>
-  </table>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03bb85&height=120&section=footer"/>
 
 <div style="display: inline_block"><br>
@@ -36,8 +19,4 @@
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gaby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-
-
-
 
