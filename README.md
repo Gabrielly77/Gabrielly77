@@ -18,6 +18,7 @@
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gaby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gaby-Python" height="30" width="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
+  <img align="center" alt="Gaby-Python" height="30" width="40" src="https://images.ctfassets.net/xwxknivhjv1b/3QkufbIgCqCqcEojZe4Q8m/822d047894bfd596dcf85f38af4b07bf/Cybersecurity_Hero.svg">
   
 </div>
 
