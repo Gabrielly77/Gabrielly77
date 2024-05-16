@@ -22,3 +22,4 @@
   <!-- Aqui está o link do GIF -->
   <img align="right" alt="Gaby-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/e8f4a28c4837191de219a030afb7ff23/tumblr_n6fki32NOZ1svfte7o1_500.gifv">
 </div>
+
