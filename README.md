@@ -14,9 +14,6 @@
 <a href="https://https://www.linkedin.com/in/gabrielly-gonçalves-572460210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-
-
-### Studying in this moment:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
