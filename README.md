@@ -4,7 +4,7 @@
 
 <div align="center">  
   <a href="mailto:cmp.1a.gabriellyaline27@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/gabrielly-gonçalves-572460210/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
@@ -19,6 +19,6 @@
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gaby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <!-- Aqui você pode adicionar o GIF do Fullmetal Alchemist estudando -->
-  <img align="right" alt="Gaby-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F533887730826668605%2F&psig=AOvVaw2qsLtOdnnIgQR3eE5Z4Fav&ust=1715905105320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNisyOTykIYDFQAAAAAdAAAAABAE )">
+  <!-- Aqui está o link do GIF -->
+  <img align="right" alt="Gaby-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/e8f4a28c4837191de219a030afb7ff23/tumblr_n6fki32NOZ1svfte7o1_500.gifv">
 </div>
