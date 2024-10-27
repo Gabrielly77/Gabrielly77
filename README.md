@@ -26,9 +26,8 @@
 <div align="center">
   <h3><b>Visitor Count</b></h3>
 </div>
- 
-<img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
+
 
 <p align="center">
   <img
