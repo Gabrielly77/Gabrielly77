@@ -24,7 +24,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 <div align="center">
-  <h3><b> ### Visitor Count</b></h3>
+  <h3><b>Visitor Count</b></h3>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
 <p align="center">
