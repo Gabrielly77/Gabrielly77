@@ -21,14 +21,11 @@
   <img align="center" alt="Gaby-Cyber" height="30" width="40" src="https://images.ctfassets.net/xwxknivhjv1b/3QkufbIgCqCqcEojZe4Q8m/822d047894bfd596dcf85f38af4b07bf/Cybersecurity_Hero.svg">
   
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
 <div align="center">
   <h3><b>Visitor Count</b></h3>
 </div>
-
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/gabrielly77/count.svg"
