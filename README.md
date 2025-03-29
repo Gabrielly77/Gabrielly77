@@ -15,7 +15,7 @@
 
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="border-radius: 10px; width: 200px; position: absolute; bottom: 0; left: 0;">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 120px; border-radius: 8px;"">
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GovCloudLink">
     <img src="https://images.credly.com/size/680x680/images/927befe8-9e64-44af-80ba-f3b8cbd380d1/image.png" alt="GovCloud (US) Essentials" style="width: 120px; border-radius: 8px;">
   </a>
