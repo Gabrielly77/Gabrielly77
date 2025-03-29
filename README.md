@@ -11,8 +11,7 @@
   </a> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ced1&height=120&section=header"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ced1&height=120&section=header" style="margin-bottom: -20px;" />
 <div align="left" style="position: relative; margin: 5px 0;">
   <h3>Studying</h3>
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
