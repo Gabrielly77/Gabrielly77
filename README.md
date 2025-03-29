@@ -16,7 +16,16 @@
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="border-radius: 10px; width: 200px; position: absolute; bottom: 0; left: 0;">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GovCloudLink">
+    <img src="https://images.credly.com/size/680x680/images/927befe8-9e64-44af-80ba-f3b8cbd380d1/image.png" alt="GovCloud (US) Essentials" style="width: 120px; border-radius: 8px;">
   </a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ModernizingSAPLink">
+    <img src="https://images.credly.com/size/680x680/images/fedad748-5fb8-4f63-89bb-23935a673e61/image.png" alt="Modernizing SAP" style="width: 120px; border-radius: 8px;">
+  </a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/TechnicalAccreditedLink">
+    <img src="https://images.credly.com/size/680x680/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="Technical Accredited" style="width: 120px; border-radius: 8px;">
+  </a>
+  
 </div>
 
 
