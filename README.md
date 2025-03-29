@@ -11,11 +11,14 @@
   </a> 
 </div>
 
-### AWS Certification
+### AWS Certification&Badges
 
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 120px; border-radius: 8px;"">
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/AWSre/StartGraduateLink">
+    <img src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWSre/StartGraduate" style="width: 120px; border-radius: 8px;">
+  </a>
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GovCloudLink">
     <img src="https://images.credly.com/size/680x680/images/927befe8-9e64-44af-80ba-f3b8cbd380d1/image.png" alt="GovCloud (US) Essentials" style="width: 120px; border-radius: 8px;">
   </a>
@@ -25,10 +28,7 @@
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/TechnicalAccreditedLink">
     <img src="https://images.credly.com/size/680x680/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="Technical Accredited" style="width: 120px; border-radius: 8px;">
   </a>
-   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/AWSre/StartGraduateLink">
-    <img src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWSre/StartGraduate" style="width: 120px; border-radius: 8px;">
-  </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GenerativeAISales2024SpecializedLink">
+   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GenerativeAISales2024SpecializedLink">
     <img src="https://images.credly.com/size/680x680/images/2568620f-13c2-4c37-9685-db34ee8d6ab5/image.png" alt="GenerativeAISales2024Specialized" style="width: 120px; border-radius: 8px;">
   </a>
    <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ArchitectingSAPLink">
