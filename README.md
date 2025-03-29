@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Gabrielly+Gonçalves;I+am+from+Brazil;I+am+currently+studying+AWS+and+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Gabrielly+Gonçalves;I+am+from+Brazil;I+am+currently+studying+AWS+Solutions+Architect+Associate+SAA+AWS+Developer+certifications+and+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <a href="mailto:cmp.1a.gabriellyaline27@gmail.com"> 
@@ -25,9 +25,6 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ced1&height=120&section=header" style="margin-bottom: -20px;" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?
-color=Black&size=35&center=true&vCenter=true&width=1000&lines=My+certifications+&+Badges+AWS;I+m+studying+for+the+AWS+Solutions+Architect+Associate+SAA+ and+AWS+Developer+certifications)](https://git.io/typing-svg)
 
 ### AWS Certification&Badges
 
