@@ -70,7 +70,7 @@
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/gabrielly77/count.svg"
-    alt="Visitor Count"
+    alt="Visitor Count☠"
   />
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
