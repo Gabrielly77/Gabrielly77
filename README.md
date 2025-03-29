@@ -26,6 +26,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ced1&height=120&section=header" style="margin-bottom: -20px;" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?
+color=Black&size=35&center=true&vCenter=true&width=1000&lines=My+certifications+&+Badges+AWS;I+m+studying+for+the+AWS+Solutions+Architect+Associate+SAA+ and+AWS+Developer+certifications)](https://git.io/typing-svg)
+
 ### AWS Certification&Badges
 
 <div align="left" style="position: relative; margin-top: 20px;">
