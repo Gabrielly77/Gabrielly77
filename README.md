@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 
 ### AWS Certification&Badges
 
@@ -34,14 +35,7 @@
    <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ArchitectingSAPLink">
     <img src="https://images.credly.com/size/680x680/images/f588bc1b-d1d2-4786-a440-995c8ab83ce1/image.png" alt="ArchitectingSAP" style="width: 120px; border-radius: 8px;">
   </a>
-  
 </div>
-
-
-
-
-
-
 
 ### Studying
 <div style="display: inline_block"><br>
@@ -56,7 +50,6 @@
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png"> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
 <div align="center">
