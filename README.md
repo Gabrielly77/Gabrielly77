@@ -36,6 +36,15 @@
    <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ArchitectingSAPLink">
     <img src="https://images.credly.com/size/680x680/images/f588bc1b-d1d2-4786-a440-995c8ab83ce1/image.png" alt="ArchitectingSAP" style="width: 120px; border-radius: 8px;">
   </a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/MigrationSalesEssentialsLink">
+    <img src="https://images.credly.com/size/680x680/images/2a40b9db-2b37-4d0b-a0f7-1f1ac016452c/image.png" alt="MigrationSalesEssentials" style="width: 120px; border-radius: 8px;">
+  </a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/SalesAccreditationLink">
+    <img src="https://images.credly.com/size/680x680/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png" alt="SalesAccreditation" style="width: 120px; border-radius: 8px;">
+  </a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/CloudEconomicsLink">
+    <img src="https://images.credly.com/size/680x680/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png" alt="CloudEconomics" style="width: 120px; border-radius: 8px;">
+  </a>
 </div>
 
 ### Studying
