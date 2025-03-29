@@ -25,6 +25,15 @@
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/TechnicalAccreditedLink">
     <img src="https://images.credly.com/size/680x680/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="Technical Accredited" style="width: 120px; border-radius: 8px;">
   </a>
+   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/AWSre/StartGraduateLink">
+    <img src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWSre/StartGraduate" style="width: 120px; border-radius: 8px;">
+  </a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GenerativeAISales2024SpecializedLink">
+    <img src="https://images.credly.com/size/680x680/images/2568620f-13c2-4c37-9685-db34ee8d6ab5/image.png" alt="GenerativeAISales2024Specialized" style="width: 120px; border-radius: 8px;">
+  </a>
+   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ArchitectingSAPLink">
+    <img src="https://images.credly.com/size/680x680/images/f588bc1b-d1d2-4786-a440-995c8ab83ce1/image.png" alt="ArchitectingSAP" style="width: 120px; border-radius: 8px;">
+  </a>
   
 </div>
 
