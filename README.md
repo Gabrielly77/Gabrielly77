@@ -12,12 +12,15 @@
 </div>
 
 
-### AWS
-<div style="display: inline_block"><br>
+### AWS Certification
 
-<img align="center" alt="Gaby-ccp" height="30" width="40" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1836431138/image771495085737125892.png">
-
+<div align="center">
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d">
+    <img src="https://your-path-to/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" style="border-radius: 10px; width: 200px;">
+  </a>
 </div>
+
+
 
 
 ### Studying
