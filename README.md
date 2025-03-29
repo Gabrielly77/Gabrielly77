@@ -13,7 +13,11 @@
 
 
 ### AWS
-[!AWS Certified Cloud Practitioner(/logo/aws-certified-cloud-practitioner.png)(https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d)]
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Gaby-ccp" height="30" width="40" src="logo/aws-certified-cloud-practitioner.png">
+
+</div>
 
 
 ### Studying
