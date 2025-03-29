@@ -20,7 +20,8 @@
   <img align="center" alt="Gaby-Aws" height="30" width="40" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png">
   <img align="center" alt="Gaby-Cyber" height="30" width="40" src="https://img.freepik.com/premium-vector/cyber-security-logo-icon-symbol-vector-illustration-modern-cyber-security-logo_1123785-4541.jpg">
   <img align="center" alt="Gaby-linux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6ZdcpxeCE-uUQuHrpPlQpXNllknzlfE9qc-atk2M5tMHgvDjQNHG7sduq19t9N6_Ht8&usqp=CAU">
-   <img align="center" alt="Gaby-Docker" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png"> 
+  <img align="center" alt="Gaby-Docker" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png">
+  <img align="center" alt="Gaby-React" height="30" width="40" src="https://devsagaz.com.br/content/images/2023/05/Ekran-Resmi-2019-11-18-18.08.13.png"> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 
