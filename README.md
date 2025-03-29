@@ -12,7 +12,7 @@
 </div>
 
 <div align="left" style="position: relative; margin: 5px 0;">
-  <h3>Studying</h3>
+  <h3>Studying ☠</h3>
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gaby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +26,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ced1&height=120&section=header" style="margin-bottom: -20px;" />
 
-### AWS Certification&Badges
+### AWS Certification & Badges ☠
 
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d">
