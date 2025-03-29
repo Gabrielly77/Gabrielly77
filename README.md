@@ -19,7 +19,7 @@
   <img align="center" alt="Gaby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gaby-Aws" height="30" width="40" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png">
   <img align="center" alt="Gaby-Cyber" height="30" width="40" src="https://images.ctfassets.net/xwxknivhjv1b/3QkufbIgCqCqcEojZe4Q8m/822d047894bfd596dcf85f38af4b07bf/Cybersecurity_Hero.svg">
-  <img align="center" alt="Gaby-linux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR10Xltg0p6OYdJLNYuziDASpUg6Q5Rqc7mTw&s">  
+  <img align="center" alt="Gaby-linux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6ZdcpxeCE-uUQuHrpPlQpXNllknzlfE9qc-atk2M5tMHgvDjQNHG7sduq19t9N6_Ht8&usqp=CAU">  
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 
