@@ -11,6 +11,11 @@
   </a> 
 </div>
 
+
+### AWS
+[![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url)
+
+
 ### Studying
 <div style="display: inline_block"><br>
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
