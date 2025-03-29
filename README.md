@@ -13,7 +13,7 @@
 
 
 ### AWS
-[![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url)
+[![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d)
 
 
 ### Studying
