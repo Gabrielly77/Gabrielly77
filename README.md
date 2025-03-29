@@ -13,7 +13,7 @@
 
 
 ### AWS
-[![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d)
+[!AWS Certified Cloud Practitioner(/logo/aws-certified-cloud-practitioner.png)(https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d)
 
 
 ### Studying
