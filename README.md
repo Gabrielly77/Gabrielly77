@@ -15,7 +15,7 @@
 ### AWS
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Gaby-ccp" height="30" width="40" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+<img align="center" alt="Gaby-ccp" height="30" width="40" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1836431138/image771495085737125892.png">
 
 </div>
 
