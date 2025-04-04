@@ -25,6 +25,7 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 
+<div align="center">
 ### AWS Certification & Badges ☠
 
 <div align="left" style="position: relative; margin-top: 20px;">
@@ -60,6 +61,9 @@
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GenerativeAIEssentialssLink">
     <img src="https://images.credly.com/size/680x680/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png" alt="GenerativeAIEssentialss" style="width: 120px; border-radius: 8px;">
   </a>
+</div>
+</p>
+---
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
