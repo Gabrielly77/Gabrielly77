@@ -25,7 +25,6 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 
-
 ### AWS Certification & Badges ☠
 
 <div align="left" style="position: relative; margin-top: 20px;">
