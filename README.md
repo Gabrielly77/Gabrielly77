@@ -24,7 +24,7 @@
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png"> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
----
+
 
 ### AWS Certification & Badges ☠
 
@@ -62,7 +62,7 @@
     <img src="https://images.credly.com/size/680x680/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png" alt="GenerativeAIEssentialss" style="width: 120px; border-radius: 8px;">
   </a>
 </div>
----
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
 <div align="center">
   <h3><b>Visitor Count</b></h3>
