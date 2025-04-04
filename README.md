@@ -25,9 +25,9 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
 
-<div>
-### AWS Certification & Badges ☠
 
+### AWS Certification & Badges ☠
+<div>
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 120px; border-radius: 8px;"">
