@@ -19,7 +19,7 @@
   <img align="center" alt="Gaby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gaby-Aws" height="30" width="40" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png">
   <img align="center" alt="Gaby-Cyber" height="30" width="40" src="https://media.discordapp.net/attachments/1297884916729512009/1355616311459184741/download_1.png?ex=67e99392&is=67e84212&hm=670fc27f439c670f3d1aa0bab9d74ea4b06743d8db5489ef215f84bcacb7867e&=&format=webp&quality=lossless&width=595&height=535">
-  <img align="center" alt="Gaby-linux" height="30" width="40" src="https://media.discordapp.net/attachments/1297884916729512009/1355616331092721986/download.png?ex=67e99397&is=67e84217&hm=ff39dc8ae02909bab327d8904be6ae1ba916eac975569ed5b307309bf13bad23&=&format=webp&quality=lossless&width=473&height=535">
+  <img align="center" alt="Gaby-linux" height="30" width="40" src="https://hermes.dio.me/articles/cover/1f9c99d0-0c7b-4ec6-9910-d88571bbff33.png">
   <img align="center" alt="Gaby-Docker" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png">
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png"> 
 </div>
