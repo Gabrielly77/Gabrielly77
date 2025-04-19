@@ -22,6 +22,7 @@
   <img align="center" alt="Gaby-linux" height="30" width="40" src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png">
   <img align="center" alt="Gaby-Docker" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png">
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png"> 
+  <img align="center" alt="Gaby-terraform" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe65o-nfJXtFwaEWdMLQ5GdEd-mH02WDxtww&s"> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=footer"/>
 
