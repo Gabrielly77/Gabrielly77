@@ -23,7 +23,8 @@
   <img align="center" alt="Gaby-Docker" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png">
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png"> 
   <img align="center" alt="Gaby-terraform" height="30" width="40" src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png">
-  <img align="center" alt="Gaby-Go" height="30" width="40" src="https://www.vozidea.com/wp-content/uploads/2016/05/go-golang-logo.jpg"> 
+  <img align="center" alt="Gaby-Go" height="30" width="40" src="https://www.vozidea.com/wp-content/uploads/2016/05/go-golang-logo.jpg">
+  <img align="center" alt="Gaby-kubernetes" height="30" width="40" src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?fit=821%2C714&ssl=1">  
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=footer"/>
 
