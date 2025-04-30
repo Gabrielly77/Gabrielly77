@@ -64,6 +64,9 @@
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GenerativeAIEssentialssLink">
     <img src="https://images.credly.com/size/680x680/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png" alt="GenerativeAIEssentialss" style="width: 120px; border-radius: 8px;">
   </a>
+  <a href="https://www.credly.com/badges/937c01e2-3fa6-4f66-ae04-104afd2ee3f7/public_url">
+    <img src="https://images.credly.com/images/432632b9-dcdc-43b6-b32d-c3e81b8c9b0d/blob" alt="Digital Sovereignty" style="width: 120px; border-radius: 8px;">
+  </a>
 </div>
 </p>
 </div>
