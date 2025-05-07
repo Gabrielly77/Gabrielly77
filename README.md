@@ -23,8 +23,7 @@
   <img align="center" alt="Gaby-Docker" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png">
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png"> 
   <img align="center" alt="Gaby-terraform" height="30" width="40" src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png">
-  <img align="center" alt="Gaby-Go" height="30" width="40" src="https://ih1.redbubble.net/image.2997619924.6331/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg">
-  <img align="center" alt="Gaby-kubernetes" height="30" width="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2uJt2M29VFk5HVcaDZ44-gqnp5_4jIy9_HGRveN9ZnekNWXxJ2mb_UAzSt1YZymAIs_OnskUYhHpAXb7LfpuBRuryrhSdwZ3fUlo-bUDCHxms4fDKbcAvQlgyBgmiWl1rAeFAt1NvFTgW/s1600/KubernetesLogo.png">  
+  <img align="center" alt="Gaby-Go" height="30" width="40" src="https://neonxp.gallerycdn.vsassets.io/extensions/neonxp/gotools/0.1.5/1691451648679/Microsoft.VisualStudio.Services.Icons.Default">  
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=footer"/>
 
