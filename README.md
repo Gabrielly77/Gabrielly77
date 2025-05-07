@@ -24,7 +24,7 @@
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png"> 
   <img align="center" alt="Gaby-terraform" height="30" width="40" src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png">
   <img align="center" alt="Gaby-Go" height="30" width="40" src="https://w7.pngwing.com/pngs/703/864/png-transparent-go-language-logo-golang-go-mobile-developer-programming-programming-language-3d-icon-thumbnail.png">
-  <img align="center" alt="Gaby-kubernetes" height="30" width="40" src="https://e7.pngegg.com/pngimages/938/554/png-clipart-white-and-blue-ship-wheel-illustration-kubernetes-logo-icons-logos-emojis-tech-companies.png">  
+  <img align="center" alt="Gaby-kubernetes" height="30" width="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2uJt2M29VFk5HVcaDZ44-gqnp5_4jIy9_HGRveN9ZnekNWXxJ2mb_UAzSt1YZymAIs_OnskUYhHpAXb7LfpuBRuryrhSdwZ3fUlo-bUDCHxms4fDKbcAvQlgyBgmiWl1rAeFAt1NvFTgW/s1600/KubernetesLogo.png">  
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=footer"/>
 
