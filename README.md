@@ -30,7 +30,7 @@
 ### AWS Certification & Badges ☠
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/201addffe0ef4704b9bf2d457395761d">
+  <a href="https://www.credly.com/badges/fe581317-4ad6-44fa-ab4d-96a7e8cdec3f/public_url">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 120px; border-radius: 8px;"">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/AWSre/StartGraduateLink">
     <img src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWSre/StartGraduate" style="width: 120px; border-radius: 8px;">
