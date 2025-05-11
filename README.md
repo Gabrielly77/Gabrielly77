@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
 </div>
-
 <div align="left" style="position: relative; margin: 5px 0;">
   <h3>Studying ☠</h3>
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
