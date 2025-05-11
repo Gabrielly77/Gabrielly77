@@ -66,6 +66,13 @@
   <a href="https://www.credly.com/badges/d31eac58-6a44-4b19-83c5-6ff382c681f4/public_url">
     <img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="Cloud Quest" style="width: 120px; border-radius: 8px;">
   </a>
+   <a href="https://www.credly.com/badges/084adabb-e878-45a9-8055-888865a26426/public_url">
+    <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="Cloud 101" style="width: 120px; border-radius: 8px;">
+  </a>
+   <a href="https://www.credly.com/badges/5a64f54a-b0c1-4322-b268-df879f0ed54d/public_url ">
+    <img src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" alt="Introduction to Generative AI" style="width: 120px; border-radius: 8px;">
+  </a>
+  
 </div>
 </p>
 </div>
