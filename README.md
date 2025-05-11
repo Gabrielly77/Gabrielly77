@@ -15,7 +15,7 @@
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gaby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gaby-Python" height="30" width="40" src="https://img.freepik.com/fotos-premium/uma-cobra-azul-com-uma-cauda-amarela-esta-em-um-fundo-preto-com-o-texto-uma-cobra-azuis_1348187-22919.jpg?semt=ais_hybrid&w=740">
+  <img align="center" alt="Gaby-Python" height="30" width="40" src="https://www.kaashivinfotech.com/blog/wp-content/uploads/2023/11/1200px-Python.svg_.png">
   <img align="center" alt="Gaby-Aws" height="30" width="40" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png">
   <img align="center" alt="Gaby-Cyber" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/9388/9388492.png">
   <img align="center" alt="Gaby-linux" height="30" width="40" src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png">
