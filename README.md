@@ -32,34 +32,34 @@
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="https://www.credly.com/badges/fe581317-4ad6-44fa-ab4d-96a7e8cdec3f/public_url">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 120px; border-radius: 8px;"">
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/AWSre/StartGraduateLink">
+  <a href="https://www.credly.com/badges/b6d7042c-f4e8-4768-a6ef-ea4834c6a35c/public_url">
     <img src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWSre/StartGraduate" style="width: 120px; border-radius: 8px;">
   </a>
-<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GovCloudLink">
+<a href="https://www.credly.com/badges/020b42e6-22ae-41b1-ab1f-a8a843a4caf2/public_url">
     <img src="https://images.credly.com/size/680x680/images/927befe8-9e64-44af-80ba-f3b8cbd380d1/image.png" alt="GovCloud (US) Essentials" style="width: 120px; border-radius: 8px;">
   </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ModernizingSAPLink">
+  <a href="https://www.credly.com/badges/5e601eab-b0cd-4f02-8a71-d532884713d1/public_url">
     <img src="https://images.credly.com/size/680x680/images/fedad748-5fb8-4f63-89bb-23935a673e61/image.png" alt="Modernizing SAP" style="width: 120px; border-radius: 8px;">
   </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/TechnicalAccreditedLink">
+  <a href="https://www.credly.com/badges/7926ac3a-bf29-4856-829e-a709e3cb9a60">
     <img src="https://images.credly.com/size/680x680/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="Technical Accredited" style="width: 120px; border-radius: 8px;">
   </a>
-   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GenerativeAISales2024SpecializedLink">
+   <a href="https://www.credly.com/badges/11f8a7fe-958e-4878-a9da-2d6ffa0bf063/public_url">
     <img src="https://images.credly.com/size/680x680/images/2568620f-13c2-4c37-9685-db34ee8d6ab5/image.png" alt="GenerativeAISales2024Specialized" style="width: 120px; border-radius: 8px;">
   </a>
-   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ArchitectingSAPLink">
+   <a href="https://www.credly.com/badges/beaca87b-c2ee-4c1e-9736-cb95665f024a/public_url">
     <img src="https://images.credly.com/size/680x680/images/f588bc1b-d1d2-4786-a440-995c8ab83ce1/image.png" alt="ArchitectingSAP" style="width: 120px; border-radius: 8px;">
   </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/MigrationSalesEssentialsLink">
+  <a href="https://www.credly.com/badges/4677cdc9-cd1f-4667-af14-a73ac712f640/public_url">
     <img src="https://images.credly.com/size/680x680/images/2a40b9db-2b37-4d0b-a0f7-1f1ac016452c/image.png" alt="MigrationSalesEssentials" style="width: 120px; border-radius: 8px;">
   </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/SalesAccreditationLink">
+  <a href="https://www.credly.com/badges/8266d853-58a5-4b28-a8ec-9e58012b2398/public_url">
     <img src="https://images.credly.com/size/680x680/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png" alt="SalesAccreditation" style="width: 120px; border-radius: 8px;">
   </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/CloudEconomicsLink">
+  <a href="https://www.credly.com/badges/127e7374-139d-406c-ab82-8e4d086cac98">
     <img src="https://images.credly.com/size/680x680/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png" alt="CloudEconomics" style="width: 120px; border-radius: 8px;">
   </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/GenerativeAIEssentialssLink">
+  <a href="https://www.credly.com/badges/639c9807-32f5-4192-be49-3414a3a971e3/public_url">
     <img src="https://images.credly.com/size/680x680/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png" alt="GenerativeAIEssentialss" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/d31eac58-6a44-4b19-83c5-6ff382c681f4/public_url">
@@ -68,7 +68,7 @@
    <a href="https://www.credly.com/badges/084adabb-e878-45a9-8055-888865a26426/public_url">
     <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="Cloud 101" style="width: 120px; border-radius: 8px;">
   </a>
-   <a href="https://www.credly.com/badges/5a64f54a-b0c1-4322-b268-df879f0ed54d/public_url ">
+   <a href="https://www.credly.com/badges/5a64f54a-b0c1-4322-b268-df879f0ed54d/public_url">
     <img src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" alt="Introduction to Generative AI" style="width: 120px; border-radius: 8px;">
   </a>
   
