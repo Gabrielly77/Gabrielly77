@@ -70,6 +70,9 @@
    <a href="https://www.credly.com/badges/5a64f54a-b0c1-4322-b268-df879f0ed54d/public_url">
     <img src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" alt="Introduction to Generative AI" style="width: 120px; border-radius: 8px;">
   </a>
+  <a href="https://pages.awseducate.com/ETC_badge.html">
+    <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="ETC_badge" style="width: 120px; border-radius: 8px;">
+  </a>
   
 </div>
 </p>
