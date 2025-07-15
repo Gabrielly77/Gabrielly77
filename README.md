@@ -84,7 +84,7 @@
 </div>
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/gabrielly77/count.svg"
+    src="https://profile-counter.glitch.me/Gabrielly77/count.svg"
     alt="Visitor Count☠"
   />
 </p>
