@@ -84,7 +84,8 @@
 </div>
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/github.com/Gabrielly77/count.svg"
+    
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gabrielly77.Gabrielly77
     alt="Visitor Count☠"
   />
 </p>
