@@ -85,7 +85,7 @@
 <p align="center">
   <img
     
-![picture](https://media.tenor.com/LV22jgZwxJQAAAAM/money-nintendo.gif)
+![picture](https://media.tenor.com/LV22jgZwxJQAAAAM/money-nintendo.gif) <br /> <br /> ![picture](https://pa1.aminoapps.com/6542/964b488f89d369fea9bd056341ecd6a6c4931e09_hq.gif)
 <br />
 <br /> 
 
