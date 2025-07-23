@@ -85,7 +85,11 @@
 <p align="center">
   <img
     
- ![visitors☠](https://visitor-badge.laobi.icu/badge?page_id=Gabrielly77.Gabrielly77)
+![picture](https://i.pinimg.com/originals/2b/14/95/2b14952ffd6ce75b58ca3d8776609a8d.gif)
+<br />
+<br /> 
+
+![visitors☠](https://visitor-badge.laobi.icu/badge?page_id=Gabrielly77.Gabrielly77)
    
   
 </p>
