@@ -85,8 +85,8 @@
 <p align="center">
   <img
     
- ![visitors]https://visitor-badge.laobi.icu/badge?page_id=Gabrielly77.Gabrielly77
-    alt="Visitor Count☠"
+ ![visitors☠](https://visitor-badge.laobi.icu/badge?page_id=Gabrielly77.Gabrielly77)
+   
   />
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>
