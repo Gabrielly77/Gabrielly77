@@ -80,7 +80,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=header"/>
 <div align="center">
-  <h3><b>Visitor Count</b></h3>
+  <h3><b>Visitor Count ☠</b></h3>
 </div>
 <p align="center">
   <img
