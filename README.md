@@ -85,7 +85,7 @@
 <p align="center">
   <img
     
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gabrielly77.Gabrielly77
+ ![visitors]https://visitor-badge.laobi.icu/badge?page_id=Gabrielly77.Gabrielly77
     alt="Visitor Count☠"
   />
 </p>
