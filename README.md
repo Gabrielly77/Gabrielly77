@@ -4,7 +4,7 @@
 
 <div align="center">  
   <a href="mailto:cmp.1a.gabriellyaline27@gmail.com"> 
-    <img src="https://cdnl.iconscout.com/lottie/premium/thumb/gmail-10866930-8805439.gif" style="height: 48px;"></a>
+    <img src="https://cdn.dribbble.com/userupload/29428189/file/original-ddf67c328e5f24751d54062a4a391314.gif" style="height: 48px;"></a>
 
   <a href="https://www.linkedin.com/in/gabrielly-gonçalves-572460210/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" style="height: 48px;"></a>
