@@ -96,8 +96,7 @@
    
   
 </p>
-<img align="center" height="160px" src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer" width="500">
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=header"/>
 
 
 
