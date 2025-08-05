@@ -53,7 +53,7 @@
     <img src="https://images.credly.com/size/680x680/images/f588bc1b-d1d2-4786-a440-995c8ab83ce1/image.png" alt="ArchitectingSAP" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/4677cdc9-cd1f-4667-af14-a73ac712f640/public_url">
-    <img src="https://images.credly.com/size/680x680/images/2a40b9db-2b37-4d0b-a0f7-1f1ac016452c/image.png" alt="MigrationSalesEssentials" style="width: 120px; border-radius: 8px;">
+    <img src="https://images-ext-1.discordapp.net/external/Zg1Dw7nxc74A4gGgsUU9w4-VdopIPjtfYc00vJ-pqI0/https/images.credly.com/size/680x680/images/6cd2843d-8f01-4099-ae1a-321d6382f459/blob?format=webp&width=750&height=750" alt="MigrationSalesEssentials" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/8266d853-58a5-4b28-a8ec-9e58012b2398/public_url">
     <img src="https://images.credly.com/size/680x680/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png" alt="SalesAccreditation" style="width: 120px; border-radius: 8px;">
