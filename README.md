@@ -41,7 +41,7 @@
     <img src="https://images.credly.com/size/680x680/images/927befe8-9e64-44af-80ba-f3b8cbd380d1/image.png" alt="GovCloud (US) Essentials" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/5e601eab-b0cd-4f02-8a71-d532884713d1/public_url">
-    <img src="https://images.credly.com/size/680x680/images/fedad748-5fb8-4f63-89bb-23935a673e61/image.png" alt="Modernizing SAP" style="width: 120px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/680x680/images/9c5f2348-b2d7-4ae3-8be6-9bfbcca1afa2/blob" alt="Modernizing SAP" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/7926ac3a-bf29-4856-829e-a709e3cb9a60">
     <img src="https://images.credly.com/size/680x680/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="Technical Accredited" style="width: 120px; border-radius: 8px;">
