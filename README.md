@@ -38,7 +38,7 @@
     <img src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWSre/StartGraduate" style="width: 120px; border-radius: 8px;">
   </a>
 <a href="https://www.credly.com/badges/020b42e6-22ae-41b1-ab1f-a8a843a4caf2/public_url">
-    <img src="https://images.credly.com/size/680x680/images/927befe8-9e64-44af-80ba-f3b8cbd380d1/image.png" alt="GovCloud (US) Essentials" style="width: 120px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/680x680/images/635fc74c-e872-4965-9894-1f55d51e4722/blob" alt="GovCloud (US) Essentials" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/5e601eab-b0cd-4f02-8a71-d532884713d1/public_url">
     <img src="https://images.credly.com/size/680x680/images/9c5f2348-b2d7-4ae3-8be6-9bfbcca1afa2/blob" alt="Modernizing SAP" style="width: 120px; border-radius: 8px;">
@@ -53,7 +53,7 @@
     <img src="https://images.credly.com/size/680x680/images/f588bc1b-d1d2-4786-a440-995c8ab83ce1/image.png" alt="ArchitectingSAP" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/4677cdc9-cd1f-4667-af14-a73ac712f640/public_url">
-    <img src="https://images-ext-1.discordapp.net/external/Zg1Dw7nxc74A4gGgsUU9w4-VdopIPjtfYc00vJ-pqI0/https/images.credly.com/size/680x680/images/6cd2843d-8f01-4099-ae1a-321d6382f459/blob?format=webp&width=750&height=750" alt="MigrationSalesEssentials" style="width: 120px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/680x680/images/6cd2843d-8f01-4099-ae1a-321d6382f459/blob" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/8266d853-58a5-4b28-a8ec-9e58012b2398/public_url">
     <img src="https://images.credly.com/size/680x680/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob" alt="SalesAccreditation" style="width: 120px; border-radius: 8px;">
