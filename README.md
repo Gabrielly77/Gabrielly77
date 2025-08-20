@@ -44,7 +44,7 @@
     <img src="https://images.credly.com/size/680x680/images/9c5f2348-b2d7-4ae3-8be6-9bfbcca1afa2/blob" alt="Modernizing SAP" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/7926ac3a-bf29-4856-829e-a709e3cb9a60">
-    <img src="https://images.credly.com/size/680x680/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="Technical Accredited" style="width: 120px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/680x680/images/8f006312-3154-45bf-a845-4a043641e83c/blob" alt="Technical Accredited" style="width: 120px; border-radius: 8px;">
   </a>
    <a href="https://www.credly.com/badges/11f8a7fe-958e-4878-a9da-2d6ffa0bf063/public_url">
     <img src="https://images.credly.com/size/680x680/images/2568620f-13c2-4c37-9685-db34ee8d6ab5/image.png" alt="GenerativeAISales2024Specialized" style="width: 120px; border-radius: 8px;">
