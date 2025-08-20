@@ -56,13 +56,13 @@
     <img src="https://images-ext-1.discordapp.net/external/Zg1Dw7nxc74A4gGgsUU9w4-VdopIPjtfYc00vJ-pqI0/https/images.credly.com/size/680x680/images/6cd2843d-8f01-4099-ae1a-321d6382f459/blob?format=webp&width=750&height=750" alt="MigrationSalesEssentials" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/8266d853-58a5-4b28-a8ec-9e58012b2398/public_url">
-    <img src="https://images.credly.com/size/680x680/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png" alt="SalesAccreditation" style="width: 120px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/680x680/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob" alt="SalesAccreditation" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/127e7374-139d-406c-ab82-8e4d086cac98">
     <img src="https://images.credly.com/size/680x680/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png" alt="CloudEconomics" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/639c9807-32f5-4192-be49-3414a3a971e3/public_url">
-    <img src="https://images.credly.com/size/680x680/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png" alt="GenerativeAIEssentialss" style="width: 120px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/680x680/images/4b547104-5ce9-43d5-8708-a7abb4b0c7ec/blob" alt="GenerativeAIEssentialss" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/d31eac58-6a44-4b19-83c5-6ff382c681f4/public_url">
     <img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="Cloud Quest" style="width: 120px; border-radius: 8px;">
