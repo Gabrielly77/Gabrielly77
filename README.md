@@ -50,7 +50,7 @@
     <img src="https://images.credly.com/size/680x680/images/2568620f-13c2-4c37-9685-db34ee8d6ab5/image.png" alt="GenerativeAISales2024Specialized" style="width: 120px; border-radius: 8px;">
   </a>
    <a href="https://www.credly.com/badges/beaca87b-c2ee-4c1e-9736-cb95665f024a/public_url">
-    <img src="https://images.credly.com/size/680x680/images/f588bc1b-d1d2-4786-a440-995c8ab83ce1/image.png" alt="ArchitectingSAP" style="width: 120px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/680x680/images/cf680480-e652-42cf-80c8-35a8c28a4767/blob" alt="ArchitectingSAP" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="https://www.credly.com/badges/4677cdc9-cd1f-4667-af14-a73ac712f640/public_url">
     <img src="https://images.credly.com/size/680x680/images/6cd2843d-8f01-4099-ae1a-321d6382f459/blob" style="width: 120px; border-radius: 8px;">
