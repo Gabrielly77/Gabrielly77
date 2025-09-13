@@ -73,14 +73,15 @@
    <a href="https://www.credly.com/badges/5a64f54a-b0c1-4322-b268-df879f0ed54d/public_url">
     <img src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" alt="Introduction to Generative AI" style="width: 120px; border-radius: 8px;">
   </a>
+  
+  <a href="https://www.credly.com/earner/earned/badge/51b9273d-9750-438d-a796-681387df073a">
+    <img src="https://images.credly.com/size/680x680/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob" alt="Security" style="width: 120px; border-radius: 8px;">
+  </a>
+
   <a href="https://pages.awseducate.com/ETC_badge.html">
     <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="ETC_badge" style="width: 120px; border-radius: 8px;">
   </a>
 
-<a href="https://www.credly.com/earner/earned/badge/51b9273d-9750-438d-a796-681387df073a">
-    <img src="https://images.credly.com/size/680x680/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob" alt="Security" style="width: 120px; border-radius: 8px;">
-  </a>
-  
 </div>
 </p>
 </div>
