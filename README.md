@@ -21,6 +21,7 @@
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gaby-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png">
   <img align="center" alt="Gaby-Cyber" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/9388/9388492.png">
+  <img align="center" alt="Gaby-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Gaby-linux" height="30" width="40" src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png">
   <img align="center" alt="Gaby-Docker" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png">
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png"> 
