@@ -12,10 +12,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Graph
+      - name: Generate Pacman Graph (light)
         uses: yoshi389111/github-contribution-graph@main
         with:
           user_name: Gabrielly77
           output_path: ./output
           theme: pacman
+
+      - name: Generate Pacman Graph (dark)
+        uses: yoshi389111/github-contribution-graph@main
+        with:
+          user_name: Gabrielly77
+          output_path: ./output
+          theme: pacman-dark
 
