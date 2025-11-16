@@ -1,0 +1,20 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Graph
+        uses: yoshi389111/github-contribution-graph@main
+        with:
+          user_name: Gabrielly77
+          output_path: ./output
+          theme: pacman
