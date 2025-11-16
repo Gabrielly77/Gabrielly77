@@ -93,11 +93,11 @@
 <div align="center">
   <h3><b>Visitor Count ☠</b></h3>
 
-<div>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielly77/Gabrielly77/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielly77/Gabrielly77/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabrielly77/Gabrielly77/output/pacman-contribution-graph.svg">
-</div>
+
 </div>
 <p align="center">
   <img
