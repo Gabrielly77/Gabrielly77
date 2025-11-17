@@ -1,28 +1,20 @@
-name: Generate Pacman Contribution Graph
+name: Generate Pacman Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
-  workflow_dispatch: # permite rodar manualmente
+    - cron: '0 0 * * *' # roda todo dia
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v2
 
-      - name: Generate Pacman Graph (light)
-        uses: yoshi389111/github-contribution-graph@main
+      - name: Generate Pacman Graph
+        uses: AndreRuperto/svg-pacman-contributions@main
         with:
-          user_name: Gabrielly77
-          output_path: ./output
-          theme: pacman
-
-      - name: Generate Pacman Graph (dark)
-        uses: yoshi389111/github-contribution-graph@main
-        with:
-          user_name: Gabrielly77
-          output_path: ./output
-          theme: pacman-dark
-
+          username: Gabrielly77
+          outputDir: output
+          commitMessage: "update pacman graph"
