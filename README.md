@@ -95,9 +95,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielly77/Gabrielly77/output/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielly77/Gabrielly77/output/output/pacman-contribution-graph.svg">
- <img src="https://raw.githubusercontent.com/Gabrielly77/Gabrielly77/output/output/pacman-contribution-graph.svg" alt="Pacman contribution graph">
-
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Gabrielly77/Gabrielly77/output/output/pacman-contribution-graph.svg">
 </picture>
+
 
 </div> 
 <p align="center">
