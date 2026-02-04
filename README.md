@@ -100,7 +100,7 @@
 
 <p align="center">
     
-<img align="center" height="160px" src="https://pa1.aminoapps.com/6542/964b488f89d369fea9bd056341ecd6a6c4931e09_hq.gif" width="500">
+<img align="center" height="160px" src="https://www.procurei-em-sonhos.com/wp-content/uploads/2021/02/tumblr_ma8oawIKaL1qc5wono1_500.gif" width="500">
 <br />
 <br /> 
 
