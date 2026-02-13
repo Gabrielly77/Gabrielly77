@@ -6,7 +6,7 @@
   <a href="mailto:cmp.1a.gabriellyaline27@gmail.com"> 
     <img src="https://cdnl.iconscout.com/lottie/premium/thumb/gmail-10866930-8805439.gif" style="height: 48px;"></a>
 
-  <a href="https://https://www.linkedin.com/in/gabrielly007/-572460210/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielly007/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" style="height: 48px;"></a>
   
 </div>
