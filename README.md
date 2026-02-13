@@ -65,7 +65,7 @@
     <img src="https://images.credly.com/size/340x340/images/1ba189ae-4afb-4c3b-ae89-f3da3c054f05/blob" alt="CloudEconomics" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="">
-    <img src="https://images.credly.com/size/340x340/images/2568620f-13c2-4c37-9685-db34ee8d6ab5/image.png" alt="GenerativeAIEssentialss" style="width: 120px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/340x340/images/4b547104-5ce9-43d5-8708-a7abb4b0c7ec/blob" alt="GenerativeAIEssentialss" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="">
     <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="Cloud Quest" style="width: 120px; border-radius: 8px;">
