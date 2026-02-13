@@ -62,7 +62,7 @@
     <img src="https://images.credly.com/size/680x680/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob" alt="SalesAccreditation" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="">
-    <img src="https://images.credly.com/size/680x680/images/5749832b-21b7-47f9-9ad4-b2fef13d0454/blob" alt="CloudEconomics" style="width: 120px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/340x340/images/1ba189ae-4afb-4c3b-ae89-f3da3c054f05/blob" alt="CloudEconomics" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="">
     <img src="https://images.credly.com/size/340x340/images/1ba189ae-4afb-4c3b-ae89-f3da3c054f05/blob" alt="GenerativeAIEssentialss" style="width: 120px; border-radius: 8px;">
