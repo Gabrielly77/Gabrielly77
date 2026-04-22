@@ -19,13 +19,13 @@
   <img align="center" alt="Gaby-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Gaby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gaby-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png">
+  <img align="center" alt="Gaby-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png">
   <img align="center" alt="Gaby-Cyber" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/9388/9388492.png">
   <img align="center" alt="Gaby-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Gaby-linux" height="30" width="40" src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png">
   <img align="center" alt="Gaby-Docker" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png">
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png"> 
-  <img align="center" alt="Gaby-terraform" height="30" width="40" src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraformlogo.png">
+  <img align="center" alt="Gaby-terraform" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG65OHZLodNq6wVZInAW1h0V8u0QUrjhjX7A&s">
   <img align="center" alt="Gaby-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Gaby-Go" height="30" width="40" src="https://neonxp.gallerycdn.vsassets.io/extensions/neonxp/gotools/0.1.5/1691451648679/Microsoft.VisualStudio.Services.Icons.Default">  
 </div>
