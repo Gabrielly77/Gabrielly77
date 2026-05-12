@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF007F&size=35&center=true&vCenter=true&width=1000&lines=Hey+:%29,+my+name+is+Gabrielly+Gonçalves+☠;I+am+from+Brazil;I+am+currently+studying;for+the;AWS+Solutions+Architect+Associate+SAA;AWS+Developer+certification;AWS+AI+Practitioner;and+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF007F&size=35&center=true&vCenter=true&width=1000&lines=Hey+:%29;my+name+is+Gabrielly+Gonçalves+☠;I+am+from+Brazil;I+am+currently+studying;for+the;AWS+Solutions+Architect+Associate+SAA;AWS+Developer+certification;AWS+AI+Practitioner;and+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <a href="mailto:cmp.1a.gabriellyaline27@gmail.com"> 
