@@ -40,9 +40,10 @@
 </p>
 
 **Estatísticas do GitHub**
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielly77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielly77&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrielly77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabrielly77&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=footer"/>
