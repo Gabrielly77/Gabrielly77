@@ -55,7 +55,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=footer"/>
 
-## AWS Certification & Badges
+# AWS Certification & Badges
 
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
@@ -100,13 +100,14 @@
    <a href="">
     <img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" alt="Introduction to Generative AI" style="width: 120px; border-radius: 8px;">
   </a>
-  
-  <a href="">
+<a href="">
     <img src="https://images.credly.com/size/680x680/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob" alt="Security" style="width: 120px; border-radius: 8px;">
   </a>
-
-  <a href="">
+ <a href="">
     <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="ETC_badge" style="width: 120px; border-radius: 8px;">
+  </a>
+   <a href="">
+    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" style="width: 120px; border-radius: 8px;">
   </a>
 
 </div>
