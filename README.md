@@ -13,7 +13,7 @@
 
 <div align="left" style="position: relative; margin: 5px 0;">
  
-**Desenvolvimento & Linguagens**
+**Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -33,14 +33,14 @@
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=target&logoColor=white"/>
 </p>
 
-**Ferramentas**
+**Tools**
 <p align="left">
   <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-**Estatísticas do GitHub**
+**GitHub Stats**
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrielly77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
