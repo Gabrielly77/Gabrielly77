@@ -33,6 +33,12 @@
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=target&logoColor=white"/>
 </p>
 
+**Cloud** 
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
+
 **Tools**
 <p align="left">
   <p align="left">
