@@ -14,8 +14,6 @@
 <div align="left" style="position: relative; margin: 5px 0;">
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" style="position: relative; top: -5px;"> Studying ☠</h3>
 
-  ### Tecnologias e Ferramentas
-
 **Cloud & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -31,6 +29,13 @@
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p
+
+  ### Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielly77&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=footer"/>
