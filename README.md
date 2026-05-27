@@ -2,15 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF007F&size=35&center=true&vCenter=true&width=1000&lines=Hey+:%29;I'm+Gabrielly+Gonçalves+☠;I'm+from+Brazil;I'm+currently+studying;for+the;AWS+Solutions+Architect+Associate+SAA;AWS+Developer+certification;AWS+AI+Practitioner;and+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <a href="mailto:cmp.1a.gabriellyaline27@gmail.com"> 
-    <img src="https://cdnl.iconscout.com/lottie/premium/thumb/gmail-10866930-8805439.gif" style="height: 48px;"></a>
-
-  <a href="https://www.linkedin.com/in/gabrielly007/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" style="height: 48px;"></a>
-  
-</div>
-
 <div align="left" style="position: relative; margin: 5px 0;">
  
 **Languages & Frameworks**
