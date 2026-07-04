@@ -46,7 +46,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=footer"/>
 
-# AWS Certification & Badges
+**AWS Certification & Badges**
 
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
@@ -104,7 +104,7 @@
 </div>
 </div>
 
-# CyberSecurity & DevSecOps - Hackers do Bem
+**CyberSecurity & DevSecOps - Hackers do Bem**
 
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
