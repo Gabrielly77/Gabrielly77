@@ -104,21 +104,21 @@
 </div>
 </div>
 
-# CyberSecurity & DevSecOps — Hackers do Bem
+# CyberSecurity & DevSecOps - Hackers do Bem
 
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="">
-    <img src="caminho_da_sua_imagem/Nivelamento.jpg" alt="Hackers do Bem - Nivelamento" style="width: 110px;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523025092567765163/Nivelamento.png?ex=6a4a9b26&is=6a4949a6&hm=ac5efc3e4a7d4dc41adc5bcd81fe0cafeea25a1ac20a4c6d9794c59fcd7a45a4&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Nivelamento" style="width: 110px;">
   </a>
   <a href="">
-    <img src="caminho_da_sua_imagem/Básico.jpg" alt="Hackers do Bem - Básico" style="width: 110px;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523025092949573864/Basico.png?ex=6a4a9b26&is=6a4949a6&hm=cbaab9448b8a2178ea0faa1b3982a1b10fbbc467ff2155e7beeb7172a4374c7c&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Básico" style="width: 110px;">
   </a>
   <a href="">
-    <img src="caminho_da_sua_imagem/Fundamental_____.jpg" alt="Hackers do Bem - Fundamental" style="width: 110px;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523025093368872970/Fundamental_____.png?ex=6a4a9b26&is=6a4949a6&hm=7721e07f09135b328d768b7a3658d54e45246e0d0a72f5615c74dad276f3691c&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Fundamental" style="width: 110px;">
   </a>
   <a href="">
-    <img src="caminho_da_sua_imagem/Especializado_DEV_____2.jpg" alt="Hackers do Bem - Especialização DevOps e DevSecOps" style="width: 110px;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523025093729714289/Especializado_DEV____.png?ex=6a4a9b26&is=6a4949a6&hm=dea17ad04f696578c04d2d063cd457ad45bc2a540c0b7d8fa38823f64412b647&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Especialização DevOps e DevSecOps" style="width: 110px;">
   </a>
 </div>
 </div>
