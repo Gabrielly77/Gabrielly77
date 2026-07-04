@@ -100,6 +100,21 @@
    <a href="">
     <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" style="width: 120px; border-radius: 8px;">
   </a>
+  <!-- Badges do Programa Hackers do Bem -->
+  <a href="">
+    <img src="caminho_da_sua_imagem/Nivelamento.jpg" alt="Hackers do Bem - Nivelamento" style="width: 120px; border-radius: 8px;">
+  </a>
+  <a href="">
+    <img src="caminho_da_sua_imagem/Básico.jpg" alt="Hackers do Bem - Básico" style="width: 120px; border-radius: 8px;">
+  </a>
+  <a href="">
+    <img src="caminho_da_sua_imagem/Fundamental_____.jpg" alt="Hackers do Bem - Fundamental" style="width: 120px; border-radius: 8px;">
+  </a>
+  <a href="">
+    <img src="caminho_da_sua_imagem/Especializado_DEV_____2.jpg" alt="Hackers do Bem - Especialização DevOps e DevSecOps" style="width: 120px; border-radius: 8px;">
+  </a>
+
+</div>
 
 </div>
 </p>
