@@ -103,7 +103,7 @@
  </div>
  </div>
 
-# CyberSecurity & DevSecOps — Hackers do Bem
+# CyberSecurity & DevSecOps - Hackers do Bem
 
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
