@@ -102,20 +102,18 @@
   </a>
   <!-- Badges do Programa Hackers do Bem -->
   <a href="">
-    <img src="caminho_da_sua_imagem/Nivelamento.jpg" alt="Hackers do Bem - Nivelamento" style="width: 120px; border-radius: 8px;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523020747985911818/Nivelamento.png?ex=6a4a971a&is=6a49459a&hm=e3bb115d4fa6b985f6e44479ab1fed8f9d088cca7da7b11eda04b98daf4d5270&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Nivelamento" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="">
-    <img src="caminho_da_sua_imagem/Básico.jpg" alt="Hackers do Bem - Básico" style="width: 120px; border-radius: 8px;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523020748313333931/Basico.png?ex=6a4a971a&is=6a49459a&hm=8c5eadc2b646cda76058ac9c42779aa1ba065c02021a361f174398e00a1386e1&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Básico" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="">
-    <img src="caminho_da_sua_imagem/Fundamental_____.jpg" alt="Hackers do Bem - Fundamental" style="width: 120px; border-radius: 8px;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523020748711530526/Fundamental_____.png?ex=6a4a971a&is=6a49459a&hm=5a7a4c60aed251e183c2af677d0055ea3e98c7c743d4db5b0e8f53ccb26533de&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Fundamental" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="">
-    <img src="caminho_da_sua_imagem/Especializado_DEV_____2.jpg" alt="Hackers do Bem - Especialização DevOps e DevSecOps" style="width: 120px; border-radius: 8px;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523020749072367876/Especializado_DEV____.png?ex=6a4a971a&is=6a49459a&hm=144ffeb9a29f261d2871bb70d2e60fc87ad4f7f0160cff280e00eaff12055977&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Especialização DevOps e DevSecOps" style="width: 120px; border-radius: 8px;">
   </a>
-
 </div>
-
 </div>
 </p>
 </div>
