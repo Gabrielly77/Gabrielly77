@@ -51,11 +51,12 @@
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 120px; border-radius: 8px;"">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 120px; border-radius: 8px;">
+  </a>
   <a href="">
     <img src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWSre/StartGraduate" style="width: 120px; border-radius: 8px;">
   </a>
-<a href="">
+  <a href="">
     <img src="https://images.credly.com/size/680x680/images/635fc74c-e872-4965-9894-1f55d51e4722/blob" alt="GovCloud (US) Essentials" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="">
@@ -64,10 +65,10 @@
   <a href="">
     <img src="https://images.credly.com/size/680x680/images/8f006312-3154-45bf-a845-4a043641e83c/blob" alt="Technical Accredited" style="width: 120px; border-radius: 8px;">
   </a>
-   <a href="">
+  <a href="">
     <img src="https://images.credly.com/size/680x680/images/2568620f-13c2-4c37-9685-db34ee8d6ab5/image.png" alt="GenerativeAISales2024Specialized" style="width: 120px; border-radius: 8px;">
   </a>
-   <a href="">
+  <a href="">
     <img src="https://images.credly.com/size/680x680/images/cf680480-e652-42cf-80c8-35a8c28a4767/blob" alt="ArchitectingSAP" style="width: 120px; border-radius: 8px;">
   </a>
   <a href="">
@@ -85,43 +86,43 @@
   <a href="">
     <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="Cloud Quest" style="width: 120px; border-radius: 8px;">
   </a>
-   <a href="">
+  <a href="">
     <img src="https://images.credly.com/size/680x680/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="Cloud 101" style="width: 120px; border-radius: 8px;">
   </a>
-   <a href="">
+  <a href="">
     <img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" alt="Introduction to Generative AI" style="width: 120px; border-radius: 8px;">
   </a>
-<a href="">
+  <a href="">
     <img src="https://images.credly.com/size/680x680/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob" alt="Security" style="width: 120px; border-radius: 8px;">
   </a>
- <a href="">
+  <a href="">
     <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="ETC_badge" style="width: 120px; border-radius: 8px;">
   </a>
-   <a href="">
+  <a href="">
     <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" style="width: 120px; border-radius: 8px;">
   </a>
- </div>
- </div>
+</div>
+</div>
 
-# CyberSecurity & DevSecOps - Hackers do Bem
+# CyberSecurity & DevSecOps — Hackers do Bem
 
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="">
-    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523020747985911818/Nivelamento.png?ex=6a4a971a&is=6a49459a&hm=e3bb115d4fa6b985f6e44479ab1fed8f9d088cca7da7b11eda04b98daf4d5270&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Nivelamento" style="width: 110px;">
+    <img src="caminho_da_sua_imagem/Nivelamento.jpg" alt="Hackers do Bem - Nivelamento" style="width: 110px;">
   </a>
   <a href="">
-    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523020748313333931/Basico.png?ex=6a4a971a&is=6a49459a&hm=8c5eadc2b646cda76058ac9c42779aa1ba065c02021a361f174398e00a1386e1&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Básico" style="width: 110px;">
+    <img src="caminho_da_sua_imagem/Básico.jpg" alt="Hackers do Bem - Básico" style="width: 110px;">
   </a>
   <a href="">
-    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523020748711530526/Fundamental_____.png?ex=6a4a971a&is=6a49459a&hm=5a7a4c60aed251e183c2af677d0055ea3e98c7c743d4db5b0e8f53ccb26533de&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Fundamental" style="width: 110px;">
+    <img src="caminho_da_sua_imagem/Fundamental_____.jpg" alt="Hackers do Bem - Fundamental" style="width: 110px;">
   </a>
   <a href="">
-    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523020749072367876/Especializado_DEV____.png?ex=6a4a971a&is=6a49459a&hm=144ffeb9a29f261d2871bb70d2e60fc87ad4f7f0160cff280e00eaff12055977&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Especialização DevOps e DevSecOps" style="width: 110px;">
+    <img src="caminho_da_sua_imagem/Especializado_DEV_____2.jpg" alt="Hackers do Bem - Especialização DevOps e DevSecOps" style="width: 110px;">
   </a>
 </div>
 </div>
-   
+
 </p>
 </div>
 
