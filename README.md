@@ -109,16 +109,16 @@
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="">
-    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523025092567765163/Nivelamento.png?ex=6a4a9b26&is=6a4949a6&hm=ac5efc3e4a7d4dc41adc5bcd81fe0cafeea25a1ac20a4c6d9794c59fcd7a45a4&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Nivelamento"  style="width: 145px; border-radius: 50%;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEs-60PMlDUbA/profile-treasury-image-shrink_1280_1280/B4DZu1d1SGJsAQ-/0/1768276056120?e=1784329200&v=beta&t=EM9culatwfFmv7MCyNSxh6qx57AThO6pbIBtsPIfGCc" alt="Hackers do Bem - Nivelamento"  style="width: 145px; border-radius: 50%;">
   </a>
   <a href="">
-    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523025092949573864/Basico.png?ex=6a4a9b26&is=6a4949a6&hm=cbaab9448b8a2178ea0faa1b3982a1b10fbbc467ff2155e7beeb7172a4374c7c&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Básico"  style="width: 145px; border-radius: 50%;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFxNKqmkx6IJg/profile-treasury-image-shrink_1920_1920/B4DZu1d3mpIgAc-/0/1768276065623?e=1784329200&v=beta&t=xSWHxO8wj2oLCeIW8mBx_pCVmnSDOPGKbWBIsXafe8Q" alt="Hackers do Bem - Básico"  style="width: 145px; border-radius: 50%;">
   </a>
   <a href="">
-    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523025093368872970/Fundamental_____.png?ex=6a4a9b26&is=6a4949a6&hm=7721e07f09135b328d768b7a3658d54e45246e0d0a72f5615c74dad276f3691c&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Fundamental"  style="width:145px; border-radius: 50%;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEA2ANEWPWgAQ/profile-treasury-image-shrink_1280_1280/B4DZ2W55FiJIAQ-/0/1776353252606?e=1784329200&v=beta&t=2iVjHXgwNVRr4gy-EKwiIFOSWYNIGuwu2Qro2T60DQM" alt="Hackers do Bem - Fundamental"  style="width:145px; border-radius: 50%;">
   </a>
   <a href="">
-    <img src="https://media.discordapp.net/attachments/1196864088702206034/1523025093729714289/Especializado_DEV____.png?ex=6a4a9b26&is=6a4949a6&hm=dea17ad04f696578c04d2d063cd457ad45bc2a540c0b7d8fa38823f64412b647&=&format=webp&quality=lossless&width=383&height=383" alt="Hackers do Bem - Especialização DevOps e DevSecOps"  style="width: 145px; border-radius: 50%;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHMm2HTmuMcmQ/profile-treasury-image-shrink_800_800/B4DZ8uL6Q.I0AI-/0/1783186302432?e=1784329200&v=beta&t=G24ioFm72Nzh2TRkvvI91UcJQ-lDd_6B5Ycyr-AjwHQ" alt="Hackers do Bem - Especialização DevOps e DevSecOps"  style="width: 145px; border-radius: 50%;">
   </a>
 </div>
 </div>
