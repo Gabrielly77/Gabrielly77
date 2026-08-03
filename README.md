@@ -118,7 +118,7 @@
     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEA2ANEWPWgAQ/profile-treasury-image-shrink_1280_1280/B4DZ2W55FiJIAQ-/0/1776353252606?e=1784329200&v=beta&t=2iVjHXgwNVRr4gy-EKwiIFOSWYNIGuwu2Qro2T60DQM" alt="Hackers do Bem - Fundamental"  style="width:145px; border-radius: 50%;">
   </a>
   <a href="">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHMm2HTmuMcmQ/profile-treasury-image-shrink_800_800/B4DZ8uL6Q.I0AI-/0/1783186302432?e=1784329200&v=beta&t=G24ioFm72Nzh2TRkvvI91UcJQ-lDd_6B5Ycyr-AjwHQ" alt="Hackers do Bem - Especialização DevOps e DevSecOps"  style="width: 145px; border-radius: 50%;">
+    <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/34a29f27-7a17-432a-b761-8a5a4fccf112" alt="Hackers do Bem - Especialização DevOps e DevSecOps"  style="width: 145px; border-radius: 50%;">
   </a>
 </div>
 </div>
