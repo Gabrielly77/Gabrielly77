@@ -118,7 +118,7 @@
     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEA2ANEWPWgAQ/profile-treasury-image-shrink_1280_1280/B4DZ2W55FiJIAQ-/0/1776353252606?e=1784329200&v=beta&t=2iVjHXgwNVRr4gy-EKwiIFOSWYNIGuwu2Qro2T60DQM" alt="Hackers do Bem - Fundamental"  style="width:145px; border-radius: 50%;">
   </a>
   <a href="">
-    <img src="<img width="512" height="512" alt="image" src="https://media.discordapp.net/attachments/1196864088702206034/1533983529346793572/wGKg4v2D0jwdgAAAABJRU5ErkJggg.png?ex=6a7278fd&is=6a71277d&hm=d7709c123bb097df03f9cb46f53c8fe8316700e5197a25cdde69a76c812cfba4&=&format=webp&quality=lossless" alt="Hackers do Bem - Especialização DevOps e DevSecOps"  style="width: 145px; border-radius: 50%;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1533983529346793572/wGKg4v2D0jwdgAAAABJRU5ErkJggg.png?ex=6a7278fd&is=6a71277d&hm=d7709c123bb097df03f9cb46f53c8fe8316700e5197a25cdde69a76c812cfba4&=&format=webp&quality=lossless"<img width="512" height="512" alt="image" alt="Hackers do Bem - Especialização DevOps e DevSecOps"  style="width: 145px; border-radius: 50%;">
   </a>
 </div>
 </div>
