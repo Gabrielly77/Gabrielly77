@@ -109,13 +109,13 @@
 <div>
 <div align="left" style="position: relative; margin-top: 20px;">
   <a href="">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEs-60PMlDUbA/profile-treasury-image-shrink_1280_1280/B4DZu1d1SGJsAQ-/0/1768276056120?e=1784329200&v=beta&t=EM9culatwfFmv7MCyNSxh6qx57AThO6pbIBtsPIfGCc" alt="Hackers do Bem - Nivelamento"  style="width: 145px; border-radius: 50%;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1533984745979908196/MoKQQOOvxiJB4U6FdzAiz9chv7AeS6pHsabjDsddK4XyRiMdxI515HBp7l3MuYtU858yDvcQRH8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAa8BrwGvAaGCsaP854VnhPqQOzwAAAABJRU5ErkJggg.png?ex=6a727a1f&is=6a71289f&hm=fbbc38aec29f2353774ebf3d1f610c956b8db56e51bda1c731bf4ea0d89c16f0&=&format=webp&quality=lossless" alt="Hackers do Bem - Nivelamento"  style="width: 145px; border-radius: 50%;">
   </a>
   <a href="">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFxNKqmkx6IJg/profile-treasury-image-shrink_1920_1920/B4DZu1d3mpIgAc-/0/1768276065623?e=1784329200&v=beta&t=xSWHxO8wj2oLCeIW8mBx_pCVmnSDOPGKbWBIsXafe8Q" alt="Hackers do Bem - Básico"  style="width: 145px; border-radius: 50%;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1533984597052883086/YIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggWCBYIFggelrgf8PzvbflZ7y7JsAAAAASUVORK5CYII.png?ex=6a7279fb&is=6a71287b&hm=71106202f27596333bc721ec9a0d6680a8cb3245a74d6ee376dc1654ed05d614&=&format=webp&quality=lossless" alt="Hackers do Bem - Básico"  style="width: 145px; border-radius: 50%;">
   </a>
   <a href="">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEA2ANEWPWgAQ/profile-treasury-image-shrink_1280_1280/B4DZ2W55FiJIAQ-/0/1776353252606?e=1784329200&v=beta&t=2iVjHXgwNVRr4gy-EKwiIFOSWYNIGuwu2Qro2T60DQM" alt="Hackers do Bem - Fundamental"  style="width:145px; border-radius: 50%;">
+    <img src="https://media.discordapp.net/attachments/1196864088702206034/1533984379523567737/hhqBKc3gsvgAAAABJRU5ErkJggg.png?ex=6a7279c8&is=6a712848&hm=27a6c52aae1f507c65c42214ad5b468448fb81aef0b0af5569da6b6c2ade582f&=&format=webp&quality=lossless" alt="Hackers do Bem - Fundamental"  style="width:145px; border-radius: 50%;">
   </a>
   <a href="">
     <img src="https://media.discordapp.net/attachments/1196864088702206034/1533983529346793572/wGKg4v2D0jwdgAAAABJRU5ErkJggg.png?ex=6a7278fd&is=6a71277d&hm=d7709c123bb097df03f9cb46f53c8fe8316700e5197a25cdde69a76c812cfba4&=&format=webp&quality=lossless"<img width="512" height="512" alt="image" alt="Hackers do Bem - Especialização DevOps e DevSecOps"  style="width: 145px; border-radius: 50%;">
