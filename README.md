@@ -118,7 +118,8 @@
     <img src="https://media.discordapp.net/attachments/1196864088702206034/1533984379523567737/hhqBKc3gsvgAAAABJRU5ErkJggg.png?ex=6a7279c8&is=6a712848&hm=27a6c52aae1f507c65c42214ad5b468448fb81aef0b0af5569da6b6c2ade582f&=&format=webp&quality=lossless" alt="Hackers do Bem - Fundamental"  style="width:145px; border-radius: 50%;">
   </a>
   <a href="">
-    <img src="https://media.discordapp.net/attachments/1196864088702206034/1533984918634238152/wGKg4v2D0jwdgAAAABJRU5ErkJggg.png?ex=6a727a48&is=6a7128c8&hm=8b7f7d2e59aa5e572257d4057de320b24816466978922a6ebfbdfe026badd0d6&=&format=webp&quality=lossless"<img width="512" height="512" alt="image" alt="Hackers do Bem - Especialização DevOps e DevSecOps"  style="width: 145px; border-radius: 50%;">
+    <img src<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b78e0089-2fc9-488e-b7bf-273be2f88113" />
+"<img width="512" height="512" alt="image" alt="Hackers do Bem - Especialização DevOps e DevSecOps"  style="width: 145px; border-radius: 50%;">
   </a>
 </div>
 </div>
